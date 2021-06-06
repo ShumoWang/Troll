@@ -1,0 +1,21 @@
+body{
+  background-color:black;
+  text-align:center;
+}
+.troll{
+  height:50px;
+  width:200px;
+  background-color:black;
+  color:white;
+  position: absolute;
+  left: 50%;top: 50%;
+	margin-left: -100px;
+	margin-top: -50px;
+}
+.ghost{
+  height:70%;
+  width:70%;
+  position:relative;
+  left:12%;
+  display:none;
+}
